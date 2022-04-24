@@ -13,6 +13,7 @@ mkdir -p ~/.config/ulauncher/user-themes
 git clone https://github.com/GiorgioReale/Ulauncher-Essential-Light-Theme.git \
   ~/.config/ulauncher/user-themes/Essential-Light-Theme
 ```
+
 ### Dark Theme
 
-[GitHub - GiorgioReale/Ulauncher-Essential-Dark-Theme](https://github.com/GiorgioReale/Ulauncher-Essential-Dark-Theme)
+[Essential Dark Theme]([GitHub - GiorgioReale/Ulauncher-Essential-Dark-Theme](https://github.com/GiorgioReale/Ulauncher-Essential-Dark-Theme))
