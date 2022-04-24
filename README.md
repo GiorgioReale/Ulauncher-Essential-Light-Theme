@@ -16,4 +16,4 @@ git clone https://github.com/GiorgioReale/Ulauncher-Essential-Light-Theme.git \
 
 ### Dark Theme
 
-[Essential Dark Theme]([GitHub - GiorgioReale/Ulauncher-Essential-Dark-Theme](https://github.com/GiorgioReale/Ulauncher-Essential-Dark-Theme))
+[Essential Dark Theme](https://github.com/GiorgioReale/Ulauncher-Essential-Dark-Theme)
