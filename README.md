@@ -4,7 +4,7 @@ A theme for Ulauncher. Essential Dark Theme.
 
 ## Screenshot
 
-![](Screenshot_2022-04-24_01-40-36.png)
+![](Screenshot_2022-04-24_19-02-22.png)
 
 ## Installation
 
