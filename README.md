@@ -10,6 +10,6 @@ A theme for Ulauncher. Essential Dark Theme.
 
 ```sh
 mkdir -p ~/.config/ulauncher/user-themes
-git clone https://github.com/GiorgioReale/Ulouncher-Essential-Light-Theme.git \
+git clone https://github.com/GiorgioReale/Ulauncher-Essential-Light-Theme.git \
   ~/.config/ulauncher/user-themes/Essential-Light-Theme
 ```
